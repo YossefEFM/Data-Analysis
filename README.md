@@ -1,7 +1,7 @@
 <h1 align='center'> Sales Data Analysis</h1>
-<h2>Yossef Essam </h2>
+<h2 font size='100'>Yossef Essam </h2>
 <h3 align='center'> Merskill data analysis Internship <br> <img src ='https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=1703116800&v=beta&t=6s6m6mOFL5n-grV9790X5rq_ekANocG0CKqI7blj82Q' width = '65' height='65'></h3>
-<table alt="Contact Details" align="left">
+<table alt="Contact Details" align="right">
   <tr>
     <td><a href="mailto:youssefessam1269@gmail.com"><img src="https://github.com/YossefEFM/images/blob/main/Email.png" height="40" width="50" alt="Email"></a></td>
     <td><a href="https://t.me/YossefEFM"><img src="https://github.com/YossefEFM/images/blob/main/Telegram.png" height="40" width="50" alt ="Telegram"> </ing></a></td>
