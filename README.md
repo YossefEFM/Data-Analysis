@@ -1,5 +1,5 @@
 <h1 align='center'> Sales Data Analysis</h1>
-<h2 font size='100'>Yossef Essam </h2>
+### Yossef Essam 
 <h3 align='center'> Merskill data analysis Internship <br> <img src ='https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=1703116800&v=beta&t=6s6m6mOFL5n-grV9790X5rq_ekANocG0CKqI7blj82Q' width = '65' height='65'></h3>
 <table alt="Contact Details" align="right">
   <tr>
