@@ -21,3 +21,5 @@
 
 https://github.com/YossefEFM/Sales-Data-Analysis/assets/87450165/1b3a20bc-feeb-4b2c-bd4b-4ba093c484aa
 
+[![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9648a97bb1f032d3d982ca330b80b666c4d76e3d/Diabetes%20Patients.svg?style=for-the-badge&color=007ec6&labelColor=000000)](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9648a97bb1f032d3d982ca330b80b666c4d76e3d/Diabetes%20Patients/)
+
