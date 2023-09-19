@@ -1,6 +1,6 @@
-> # **<img src ='https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=1703116800&v=beta&t=6s6m6mOFL5n-grV9790X5rq_ekANocG0CKqI7blj82Q' width = '40' height='40'>    Merskill Data Analysis**
 > # **ENG. Yossef Essam**
->> <table alt="Contact Details" align="left">
+
+> <table alt="Contact Details" align="left">
   <tr>
     <td><a href="mailto:youssefessam1269@gmail.com"><img src="https://github.com/YossefEFM/images/blob/main/Email.png" height="20" width="30" alt="Email"></a></td>
     <td><a href="https://t.me/YossefEFM"><img src="https://github.com/YossefEFM/images/blob/main/Telegram.png" height="20" width="30" alt ="Telegram"> </ing></a></td>
@@ -13,6 +13,9 @@
 <br>
 <br>
 <br>
+
+> <h1 align='center'><img src ='https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=1703116800&v=beta&t=6s6m6mOFL5n-grV9790X5rq_ekANocG0CKqI7blj82Q' width = '40' height='40'>    Merskill Data Analysis</h1>
+
       
 > **[Internship Offer Letter](https://drive.google.com/file/d/1LTxA4HpRFX1frKueSLASWCirE9s82zoy/view?usp=drive_link)**
 
