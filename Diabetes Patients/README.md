@@ -12,5 +12,9 @@
 </table></h2>
 <h3 align='center'>Merskill data analysis Internship <br><img src ='https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=1703116800&v=beta&t=6s6m6mOFL5n-grV9790X5rq_ekANocG0CKqI7blj82Q' width = '65' height='65'>  </h3>
 
-<h3>Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision making.</h3>
+<h3>Predict whether a patient has diabetes based on certain diagnostic measurements. It is a classic binary classification problem where the outcome variable is binary (diabetes or no diabetes), and the goal is to build a predictive model based on independent variables (medical predictor variables) to classify patients correctly.</h3>
+
+
+
+https://github.com/YossefEFM/Sales-Data-Analysis/assets/87450165/1b3a20bc-feeb-4b2c-bd4b-4ba093c484aa
 
