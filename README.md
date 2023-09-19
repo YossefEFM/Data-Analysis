@@ -14,7 +14,7 @@
 > <br>
 > <br>
 > <br>
- **<a herf="https://drive.google.com/file/d/1LTxA4HpRFX1frKueSLASWCirE9s82zoy/view?usp=sharing"> Internship Offer</a>**
+ **<a herf="https://drive.google.com/file/d/1LTxA4HpRFX1frKueSLASWCirE9s82zoy/view?usp=sharing">Internship Offer</a>**
 
 > <table alt="Contact Details" align="center">
   <tr>
