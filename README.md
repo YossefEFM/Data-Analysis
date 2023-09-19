@@ -29,4 +29,5 @@
     <td><a href="Diabetes Patients">Diabetes Patients</a></td>
   </tr>   
 </table>
-[![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis.git.svg?style=for-the-badge&color=007ec6&labelColor=000000)](https://hits.sh/github.com/YossefEFM/Data-Analysis.git/)
+
+[![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis.svg?style=for-the-badge&color=007ec6&labelColor=000000)](https://hits.sh/github.com/YossefEFM/Data-Analysis/)
