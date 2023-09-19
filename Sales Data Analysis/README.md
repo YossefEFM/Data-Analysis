@@ -17,3 +17,4 @@
 
 > **Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision making.**
 > <img src='analysis.png'>
+[![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9d243fcdceaae99dfde61124f2362ba2cda9f505/Sales%20Data%20Analysis.svg?style=for-the-badge&color=007ec6&labelColor=000000)](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9d243fcdceaae99dfde61124f2362ba2cda9f505/Sales%20Data%20Analysis/)
