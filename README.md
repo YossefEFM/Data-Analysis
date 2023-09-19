@@ -10,11 +10,11 @@
       <img src = "https://user-images.githubusercontent.com/60184582/206710371-5e9ce41c-1842-41d9-bcf5-c938c5e467f1.png" width = "30" hieght= "20" alt="FaceBook"></a></td>
   </tr>
 </table>
-
-> <br>
-> <br>
-> <br>
- **<a herf="https://drive.google.com/file/d/1LTxA4HpRFX1frKueSLASWCirE9s82zoy/view?usp=sharing">Internship Offer</a>**
+<br>
+<br>
+<br>
+      
+> **[Internship Offer Letter](https://drive.google.com/file/d/1LTxA4HpRFX1frKueSLASWCirE9s82zoy/view?usp=drive_link)**
 
 > <table alt="Contact Details" align="center">
   <tr>
