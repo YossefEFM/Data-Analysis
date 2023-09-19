@@ -1,4 +1,4 @@
-<h1 align='center'> Sales Data Analysis</h1>
+<h1 align='center'> Diabetes Patients Prediction</h1>
 <h2 align='center'><strong>ENG.Yossef Essam </strong><br>
 <table alt="Contact Details" align="center">
   <tr>
@@ -13,4 +13,4 @@
 <h3 align='center'>Merskill data analysis Internship <br><img src ='https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=1703116800&v=beta&t=6s6m6mOFL5n-grV9790X5rq_ekANocG0CKqI7blj82Q' width = '65' height='65'>  </h3>
 
 <h3>Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision making.</h3>
-<img src='analysis.png'>
+
