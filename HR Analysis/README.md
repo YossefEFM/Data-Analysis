@@ -13,13 +13,15 @@
 <br>
 <br>
       
-> <h1 align='center'> Diabetes Patients Prediction</h1>
+> <h1 align='center'> HR Data Analysis</h1>
  
-> **Predict whether a patient has diabetes based on certain diagnostic measurements. It is a classic binary classification problem where the outcome variable is binary (diabetes or no diabetes), and the goal is to build a predictive model based on independent variables (medical predictor variables) to classify patients correctly.**
+> **The "HR Analytics" project involves data cleaning to enhance dataset quality and data visualization to uncover insights. Cleaning includes column management, duplicates removal, and NaN handling. Visualization explores relationships in HR data, such as overtime, job roles, and their impact on various HR metrics.**
+
+
+https://github.com/YossefEFM/Data-Analysis/assets/87450165/c211e170-6709-477f-9c90-057d8b5279ac
 
 
 
-https://github.com/YossefEFM/Sales-Data-Analysis/assets/87450165/1b3a20bc-feeb-4b2c-bd4b-4ba093c484aa
 
 [![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9648a97bb1f032d3d982ca330b80b666c4d76e3d/Diabetes%20Patients.svg?style=for-the-badge&color=007ec6&labelColor=000000)](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9648a97bb1f032d3d982ca330b80b666c4d76e3d/Diabetes%20Patients/)
 
