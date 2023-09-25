@@ -22,6 +22,4 @@ https://github.com/YossefEFM/Data-Analysis/assets/87450165/c211e170-6709-477f-9c
 
 
 
-
-[![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9648a97bb1f032d3d982ca330b80b666c4d76e3d/Diabetes%20Patients.svg?style=for-the-badge&color=007ec6&labelColor=000000)](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/9648a97bb1f032d3d982ca330b80b666c4d76e3d/Diabetes%20Patients/)
-
+[![Hits](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/60ae289f7e6dfbf9147ecbe67c15389a48a13338/HR%20Analysis.svg?color=0300ff)](https://hits.sh/github.com/YossefEFM/Data-Analysis/tree/60ae289f7e6dfbf9147ecbe67c15389a48a13338/HR%20Analysis/)
